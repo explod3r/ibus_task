@@ -75,6 +75,9 @@
     "doctrine/reflection": {
         "version": "v1.0.0"
     },
+    "duzun/hquery": {
+        "version": "3.0.3"
+    },
     "easycorp/easy-log-handler": {
         "version": "1.0",
         "recipe": {
@@ -105,6 +108,9 @@
     "ocramius/proxy-manager": {
         "version": "2.2.3"
     },
+    "opis/json-schema": {
+        "version": "1.0.18"
+    },
     "php": {
         "version": "7.2"
     },
@@ -116,6 +122,15 @@
     },
     "phpdocumentor/type-resolver": {
         "version": "1.0.1"
+    },
+    "phpspec/php-diff": {
+        "version": "v1.1.0"
+    },
+    "phpspec/phpspec": {
+        "version": "6.1.1"
+    },
+    "phpspec/prophecy": {
+        "version": "1.10.0"
     },
     "psr/cache": {
         "version": "1.0.1"
@@ -131,6 +146,18 @@
     },
     "psr/log": {
         "version": "1.1.2"
+    },
+    "sebastian/comparator": {
+        "version": "3.0.2"
+    },
+    "sebastian/diff": {
+        "version": "3.0.2"
+    },
+    "sebastian/exporter": {
+        "version": "3.1.2"
+    },
+    "sebastian/recursion-context": {
+        "version": "3.0.0"
     },
     "sensio/framework-extra-bundle": {
         "version": "5.2",
